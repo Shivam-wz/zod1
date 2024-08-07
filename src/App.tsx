@@ -5,7 +5,7 @@ import ReactHookFormWithZod from "./components/ReactHookFormWithZod";
 function App() {
   return (
     <div>
-      <h1>React Hook Form Tutorial</h1>
+      
       <ReactHookFormWithZod />
     </div>
   );
